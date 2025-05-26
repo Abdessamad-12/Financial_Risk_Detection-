@@ -1,0 +1,963 @@
+ 
+ 
+ 
+-1-
+ 
+Paris, 13 April 2023 
+                                                                
+ 
+ 
+2022 full-year earnings 
+ 
+Resilience of current operating results in 2022, driven by international development 
+and restructurings undertaken, despite a highly inflationary context and persistent supplies 
+availability pressure 
+ 
+  
+ 
+EBITDA1 of €11.8m in 2022, down 7.5% from €12.6m in 2021, when EBITDA was boosted by a €3.1m 
+non-recurring credit note - Excluding this one-off item and incorporating the change in the EBITDA1 
+definition, EBITDA would have risen by  + 19 % 
+ 
+ 
+Net loss, Group share of €(0.9)m in 2022, compared to net profit, Group share of €5.6m in 2021, that 
+was boosted by €3.1m non-recurring income. 2022 includes an exceptional expense for the 
+restructuring of the Off-Trade sales department in France, announced early 2022. Restating these 
+two exceptional items, 2022 net profit Group share would would be slightly lower than in 2021 
+  
+ 
+NB: All revenue growth figures reported herein are at constant exchange rates and consolidation scope, unless otherwise 
+stated.  
+  
+ 
+ 
+ 
+Marie Brizard Wine & Spirits (Euronext: MBWS) today announces its consolidated earnings for the 2022 financial 
+year as approved by the Group’s Board of Directors on 12 April 2023. All audit procedures have been carried out. 
+ 
+Commenting on these results, Fahd Khadraoui, Chief Executive Officer of Marie Brizard Wine & Spirits, said: “The 
+Group continued to improve its operating performance in 2022. During the year, we successfully created value by 
+working on multiple fronts: intensifying international growth, continuing the value-over-volumes strategy, and 
+completing the restructuring programme. The biggest contributors to value creation were international 
+development and the streamlining of overheads. 
+On the other hand, the Group was hardly hit by a tough external environment in 2022: the unprecedented surge in 
+raw material and energy costs and patchy availability of supplies restricted our capacity to meet customer demand 
+and eroded margins. Nevertheless, we remained on track thanks to the hard work put in by all our teams. 
+This situation persists in 2023, and our major challenges this year will again be to deal with these external factors: 
+the price list increase policy to mitigate the effects of inflation, the availability of raw materials and the impact on 
+our customers’ purchasing power. All of which leads us to take a prudent approach in the short and medium term, 
+while maintaining our mainstream positioning and the quality of our products, a winning combination for our 
+consumers in inflationary times.”  
+ 
+ 
+                                                 
+1 EBITDA = EBIT + depreciation, amortisation & provisions excl. current assets. From 1st January 2022, provisions on current 
+assets are included in the definition of EBITDA which restated would have reached €13.0m in 2021. 
+ 
+ 
+ 
+-2-
+ 
+ 
+ 
+Simplified income statement - FY 2022 
+(€m except EPS) 
+2021  
+2022 
+Change 
+2022/2021 
+Net revenues (excluding excise duties)  
+166.7 
+181.4 
++14.7 
+ 
+Gross margin 
+68.6 
+70.9 
++2.3 
+ 
+    Gross margin ratio 
+41.1% 
+39.1%  
+ 
+ 
+EBITDA 
+12.6 
+11.8  
+-0.8 
+ 
+    EBITDA margin 
+7.5% 
+6.5%  
+ 
+ 
+Recurring operating profit 
+5.7 
+7.1 
++1.4 
+ 
+Net profit/(loss) Group share 
+5.6 
+(0.9) 
+-6.5 
+ 
+    of which Net profit/(loss) from continuing operations, Group 
+share 
+6.6 
+(0.9)  
+-7.5 
+ 
+    of which Net profit/(loss) from discontinued operations 
+(1.0) 
+-  
++1.0 
+ 
+Earnings per share, Group share (EPS, €)  
+0.06 
+(0.01)  
+-0.07 
+ 
+Earnings per share from continuing operations, Group share (EPS, €) 
+0.06 
+(0.01) 
+-0.07 
+ 
+ 
+In 2022, the Group generated sales of €181.4m, up 7.8% on the prior year, excluding currency impacts. 
+2022 was marked by a rise in revenues for both clusters, with growth has been stronger in the 
+international cluster.  
+The consolidated gross margin ratio fell 2 percentage points to 39.1% in 2022, as inflation pushed up 
+materials and energy prices all year, rises that were only partly offset by raising prices in the 
+international cluster. This ratio also reflects the dilutive impact of the Company’s stated target of 
+offsetting the value of rising input costs by price increases in absolute value. The France cluster saw 
+EBITDA decline by €4.0m, partly due to base effects in 2021, when MBWS France recorded the 
+aforementioned non-recurring €3.1m supplier discount. Also, the fast rising costs of raw materials and 
+energy in 2022, exacerbated by the Russia-Ukraine war, could not be fully passed on to selling prices.  
+EBITDA for the international cluster rose by €0.7m (excluding currency impact), driven by strong 
+performances in the Baltic States, direct International Export, Spain and Scandinavia. EBITDA in the 
+United States (excluding currency impact) fell and was particularly hard hit by a highly competitive vodka 
+market. Brazil had a tough year in a low-growth market suffering economic volatility. 
+2022 net revenues by cluster 
+ 
+ 
+ 
+(€m) 
+2021 
+LFL change 
+Currency  
+impact 
+2022 
+  
+LFL change 
+(excl. currency 
+impact) 
+Change (incl. 
+currency impact) 
+FRANCE CLUSTER 
+78.6 
++2.7 
+- 
+81.3 
++3.4% 
++3.4% 
+INTERNATIONAL CLUSTER 
+88.1 
++10.4 
++1.6 
+100.1 
++11.7% 
++13.6% 
+TOTAL MBWS 
+166.7 
++13.1 
+ 
++1.6 
+181.4 
++7.8% 
++8.8% 
+ 
+ 
+ 
+-3-
+ 
+2022 EBITDA by cluster 
+ 
+FRANCE CLUSTER:  
+In France, despite a 4.0% decline in the fourth quarter, revenues grew by 3.4% for 2022 as a whole 
+versus 2021, mainly due to the strong performance of our strategic brands and the effect of general 
+inflation on the trading environment. The fourth quarter fall in revenues was caused by the restricted 
+availability and inflating prices of inputs. This led to problems meeting the demand of all our customers, 
+forcing us to adapt pricing policies and scale back promotions. Despite these factors, the off-trade 
+business held up well, driven in particular by sales of William Peel, which grew in the second half despite 
+an environment of shortages and logistical problems that caused supply chain interruptions among 
+competitors, and a spirits market which again declined compared to the same period in 2021. Full-year 
+on-trade sales were much stronger in 2022 than in 2021, which had still been impacted by Covid 
+restrictions.  
+As a reminder, 2021 EBITDA was boosted by a one-off €3.1m credit note that the Group received from 
+a whisky supplier under a new contract signed in January 2021. Overall, 2022 EBITDA for the France 
+cluster fell to €8.4m from €12.4m in 2021. 
+ 
+INTERNATIONAL CLUSTER:  
+International revenues grew significantly in 2022, up 11.7% versus 2021, with disparities between 
+regions:  
+- growth in Europe, particularly in the Bulgarian and Lithuanian domestic markets despite the Russia-
+Ukraine conflict, and in Spain; 
+- a fall-off in Sobieski revenues in the United States, a highly competitive vodka market with heavy 
+promotional pressure;  
+- a solid performance by all Group strategic brands, particularly Marie Brizard and Cognac Gautier. 
+  
+EBITDA for the international cluster rose 8.1% (excluding currency impact) in 2022 to €9.5m, 
+mainly driven by export markets and the European subsidiaries. 
+ 
+- MBWS International  
+Revenues for the subsidiary totalled €18.6m, up €4m versus 2021 driven by strong performances in the 
+French overseas territories, South Korea (+€0.7m) and Australia (+€0.8m) and by the Marie Brizard and 
+Gautier brands. 
+Western Europe export markets saw significant growth by William Peel in Belgium and Marie Brizard in 
+Italy and the Middle East (Marie Brizard syrups), partly offsetting struggling sales for Marie Brizard in 
+the UK which hampered revenue growth for the region. 
+(€m) 
+2021 
+LFL change 
+Currency  
+impact 
+2022 
+  
+LFL change 
+(excl. currency 
+impact) 
+Change (incl. 
+currency impact) 
+FRANCE CLUSTER 
+12.4 
+-4.0 
+- 
+8.4 
+-32.1% 
+-32.1% 
+INTERNATIONAL CLUSTER 
+8.6 
++0.7 
++0.2 
+9.5 
++8.1% 
++10.2% 
+HOLDING COMPANY 
+(8.4) 
++2.3 
+- 
+(6.1) 
++27.8% 
++27.8% 
+TOTAL MBWS 
+12.6 
+-1.0 
++0.2 
+11.8 
+-7.5% 
+-6.1% 
+ 
+ 
+ 
+-4-
+In the Americas export market, Canada revenues rose 15.7% year-on-year. Growth was driven mainly 
+by Gautier and Marie Brizard, while Sobieski vodka continues to struggle in a hotly contested market 
+segment. 
+Lastly, in Asia Pacific, the positive trend of the first nine months of 2022 was confirmed in the fourth 
+quarter by sustained performances, notably in Taiwan. 
+ 
+- MBWS España 
+Revenues amounted to €21.1m, up €1.1m. 
+This represents a 5.6% rise in 2022 revenues versus 2021, driven mainly by solid performances from 
+strategic brands (most notably Marie Brizard and William Peel) and stable trading in the subcontracting 
+business. 
+ 
+- MBWS Scandinavia 
+Scandinavia posted a 25.3% increase in 2022 full-year revenues versus 2021, bolstered by the lifting of 
+all Covid restrictions on the on-trade channel and driven again by sales of Marie Brizard, Sobieski and 
+third-party brands. 
+ 
+- MBWS Baltics  
+The Baltic States posted full-year revenues of €26.4m, up 14.1%, including a fourth quarter upturn 
+mainly due to brand performance driven by a proactive pricing policy, limited recovery in Ukraine and 
+the continued buoyancy of the bulk market and its by-products. 
+ 
+- MBWS Bulgaria 
+Sales in Bulgaria continued to ramp up in the fourth quarter (Q4 up 22.8%, up 19.8% for the year) across 
+the entire brand portfolio (spirits and wine) in both domestic and export markets thanks to a rigorous 
+sales policy. 
+The subsidiary posted revenues of €16.8m, up €2.8m. 
+ 
+- Imperial Brands 
+In the United States, revenues were down 9.3% year-on-year. The Sobieski brand was particularly hardly 
+hit by an extremely competitive and shrinking vodka market and by changes made by our importer in 
+some regional routes to market that are strategically important to the brand. These changes created 
+operational, logistical and marketing issues that held back the brand’s performance. 
+The Marie Brizard and Gautier brands confirmed their sales growth in this market in the fourth quarter, 
+but had their own problems with some of the changes that were affecting Sobieski. 
+ 
+- Dubar 
+Brazil had a mixed year, with a review of pricing policy across the whole portfolio at the start of the year 
+which, however, successfully limited the decline. Revenues were down in the fourth quarter 2022 with 
+a 16.7% drop in performance for the year, mainly due to delays in availability for certain strategic 
+products. 
+  
+ 
+HOLDING COMPANY:  
+EBITDA amounted to a €6.0m loss in 2022 compared to a €8.4m loss in 2021, reflecting the results of 
+the 2021 restructuring and the ongoing drive to cut overheads.  
+ 
+ 
+ 
+ 
+ 
+ 
+-5-
+Balance sheet at 31 December 2022 
+ 
+Shareholders’ equity, Group share, was €194.6m, compared to a restated2 €193.3m at 31 December 
+2021. Net cash amounted to €40.9m at 31 December 2022 compared to €48.2m the previous year. 
+ 
+These changes reflect the resumption of capital investment, the costs of restructuring the Off-trade 
+sales department in France, scheduled payments under the CCSF plan (deferral of tax and social security 
+payments agreed in April 2021) as well as the increase in the level of safety stocks (mainly for input 
+categories subject to regular availability disruptions) and upward variations in their unit values 
+(inflation). 
+ 
+Outlook 
+For the past four years, the Group has maintained its strategic direction and the principle of prioritising 
+operations that help improve the profitability of the Group’s businesses and significantly increase 
+EBITDA. 
+To achieve this growth in profitability, the Group is endeavouring to create the conditions for profitable 
+development of its brand portfolio and key markets (subsidiaries and/or sales networks, direct export). 
+Also, in all Group markets and subsidiaries, negotiations and marketing with customers systematically 
+prioritise value over volumes, wherever possible. 
+The Group now plans to accelerate the roll-out of its growth initiatives and projects in its France and 
+International clusters, both organically and through mergers and acquisitions, so as to expand its trading 
+base and improve financial performance. 
+2022 operating earnings confirm the Group’s capacity to maintain the positive trends of the last two 
+years (stripping out non-recurring items), in a fast-changing local and global economic environment: 
+pandemic, followed by bottlenecks in raw materials supplies and logistics, the Russia-Ukraine war 
+threatening a further squeeze on product availability and the cost of inputs and energy, and some 
+declining markets such as under-12-year blended Scotch whisky in France, vodkas in the USA, etc.  
+These factors could potentially disrupt global business and have already led to a dilution in margins 
+rates. Visibility remains low in some countries more heavily exposed to this changing scenario, such as 
+the concentrated and increasingly mature French market where volumes are in sharp decline. For these 
+reasons the Group is, for now, remaining highly prudent in its short and medium-term outlook. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+2 In preparing its 2022 financial statements, the Company conducted an in-depth review of its deferred tax liabilities. It was 
+found that their value in previous years had been overstated by €19.7m.  Almost all of this related to deferred taxes on the 
+value of trademarks.  Therefore, as required by IAS 8, the Company retrospectively restated all material differences in the 
+comparative information published for 2021. As these adjustments derived from years prior to 2021, the technical correction 
+was made in the opening statements for the 2021 financial year and led to a €19.7m increase in shareholders’ equity. This 
+has no impact on cash or earnings for the period. 
+ 
+ 
+ 
+-6-
+ 
+Financial calendar: 
+- 
+Q1 2023 revenues: 27 April 2023 
+- 
+General Meeting: 29 June 2023 
+- 
+H1 2023 revenues: 27 July 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+Investors and shareholders relations contact  
+MBWS Group 
+Emilie Drexler 
+relations.actionnaires@mbws.com 
+Tél : +33 1 43 91 62 21 
+Press contact 
+Image Sept  
+Claire Doligez - Laurence Maury 
+cdoligez@image7.fr – lmaury@image7.fr 
+Tél : +33 1 53 70 74 70 
+ 
+ 
+ 
+ 
+ 
+About Marie Brizard Wine & Spirits  
+Marie Brizard Wine & Spirits is a Group of wines and spirits based in Europe and the United States. Marie Brizard Wine & Spirits stands out for its expertise, a 
+combination of brands with a long tradition and a resolutely innovative spirit. Since the birth of the Maison Marie Brizard in 1755, the Marie Brizard Wine & 
+Spirits Group has developed its brands in a spirit of modernity while respecting its origins. Marie Brizard Wine & Spirits' commitment is to offer its customers 
+brands of confidence, daring and full of flavours and experiences. The Group now has a rich portfolio of leading brands in their market segments, including 
+William Peel, Sobieski, Marie Brizard and Cognac Gautier. Marie Brizard Wine & Spirits is listed on Compartment B of Euronext Paris (FR0000060873 - 
+MBWS) and is part of the EnterNext PEA-PME 150 index. 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-7-
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+APPENDIX 
+  
+ 
+FY 2022 Consolidated Financial Statements                                                    
+ 
+Income statement 
+(€000) 
+2022 
+2021 
+2022/2021 change 
+  
+  
+  
+  
+  
+Revenues 
+227,121 
+214,395 
++12,726 
++6% 
+Excise duties 
+(45,770) 
+(47,711) 
++1,941 
++4% 
+Net revenues excluding excise duties 
+181,351 
+166,684 
++14,667 
++9% 
+Cost of goods sold 
+(110,420) 
+(98,124) 
+-12,296 
+-13% 
+External expenses 
+(27,599) 
+(26,713) 
+-886 
+-3% 
+Personnel expense 
+(27,134) 
+(31,177) 
++4,043 
++13% 
+Taxes and levies 
+(2,483) 
+(1,688) 
+-833 
+-49% 
+Depreciation and amortisation charges 
+(6,075) 
+(6,616) 
++541 
++8% 
+Other operating income 
+4,166 
+7,155 
+-2,993 
+-42% 
+Other operating expenses 
+(4,735) 
+(3,829) 
+-906 
+-24% 
+Recurring operating profit 
+7,071 
+5,692 
++1,337 
++23% 
+Non-recurring operating income 
+2,267 
+5,226 
+-2,959 
+-57% 
+Non-recurring operating expenses 
+(7,456) 
+(5,334) 
+-2,122 
+-40% 
+Operating profit   
+1,882 
+5,584 
+-3,744 
+-67% 
+Income from cash and cash equivalents  
+113 
+120 
+-7 
+-6% 
+Gross cost of debt 
+(198) 
+(454) 
++256 
++56% 
+Net cost of debt 
+(85) 
+(334) 
++249 
++75% 
+Other financial income 
+1,064 
+730 
++334 
++46% 
+Other financial expenses 
+(1,181) 
+(146) 
+-1,035 
+-709% 
+Net financial income/(expense) 
+(202) 
+250 
+-452 
+-181% 
+Profit before tax 
+1,680 
+5,834 
+-4,196 
+-72% 
+Income tax 
+(2,605) 
+751 
+-2,012 
+-268% 
+Net profit/(loss) from continuing operations 
+(925) 
+6,585 
+-6,208 
+-94% 
+Net profit/(loss) from discontinued operations 
+- 
+(1,017) 
++1,017 
+  
+  
+ 
+ 
+ 
+ 
+NET PROFIT/(LOSS) 
+(925) 
+5,568 
+-5,191 
+-93% 
+Group share 
+(945) 
+5,564 
+-5,207 
+-94% 
+of which Net profit/(loss) from continuing operations 
+(945) 
+6,581 
+-6,224 
+(1) 
+of which Net profit/(loss) from discontinued operations 
+0 
+(1,017) 
++1,017 
+1 
+Non-controlling interests 
+20 
+4 
++16 
+4 
+of which Net profit/(loss) from continuing operations 
+20 
+4 
++16 
+4 
+of which Net profit/(loss) from discontinued operations 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+Earnings per share from continuing operations, Group 
+share (€) 
+(0.008) 
+0.06 
+  
+  
+Diluted earnings per share from continuing operations, 
+Group share (€) 
+(0.008) 
+0.06 
+  
+  
+Earnings per share, Group share (€) 
+(0.008) 
+0.05 
+  
+  
+Diluted earnings per share, Group share (€) 
+(0.008) 
+0.05 
+  
+  
+Weighted average number of shares outstanding 
+111,856,837 
+105,889,482 
+  
+  
+Diluted weighted average number of shares outstanding 
+111,856,837 
+105,889,482 
+  
+  
+ 
+ 
+ 
+-8-
+Balance sheet 
+ 
+Assets 
+(€000) 
+31.12.2022 
+31.12.2021 
+restated 
+ 
+2022/2021 change 
+Non-current assets 
+  
+  
+  
+Goodwill 
+14,704 
+14,704 
+  
+Intangible assets 
+77,847 
+79,361 
+-1,514 
+-2% 
+Property, plant and equipment 
+26,932 
+27,181 
+-249 
+-1% 
+Financial assets 
+1,146 
+4,001 
+-2,855 
+-71% 
+Deferred tax assets 
+3,781 
+4,366 
+-585 
+-13% 
+Total non-current assets 
+124,410 
+129,613 
+-5,203 
+-4% 
+Current assets 
+  
+  
+  
+Inventory and work-in-progress 
+51,934 
+35,094 
++16,840 
++48% 
+Trade receivables 
+43,523 
+35,891 
++7,632 
++21% 
+Tax receivables 
+734 
+4,125 
+-3,391 
+-82% 
+Other current assets 
+10,468 
+9,714 
++754 
++8% 
+Current derivatives 
+114 
+281 
+-167 
+-59% 
+Cash and cash equivalents 
+47,495 
+54,169 
+-6,674 
+-12% 
+Assets held for sale 
+  
+3,058 
+-3,058 
+-100% 
+Total current assets 
+154,268 
+142,332 
++11,936 
++8% 
+TOTAL ASSETS 
+278,678 
+271,945 
++6,733 
++2% 
+ 
+ 
+ 
+ 
+Equity & Liabilities 
+(€000) 
+31.12.2022 
+31.12.2021 
+restated 
+2022/2021 change 
+Shareholders’ equity 
+  
+  
+  
+Share capital 
+156,786 
+156,729 
++57 
++0% 
+Additional paid-in capital 
+72,815 
+72,751 
++64 
++0% 
+Consolidated and other reserves 
+(25,529) 
+(31,957) 
++6,428 
+-20% 
+Translation reserves 
+(8,520) 
+(9,807) 
++1,287 
+-13% 
+Consolidated net profit 
+(945) 
+5,564 
+(6,509) 
+-117% 
+Shareholders’ equity (Group share) 
+194,607 
+193,280 
++1,327 
++1% 
+Non-controlling interests 
+333 
+332 
++1 
++0% 
+Total shareholders’ equity 
+194,940 
+193,612 
++1,328 
++1% 
+Non-current liabilities 
+  
+  
+  
+Employee benefits 
+1,769 
+2,214 
+-445 
+-20% 
+Non-current provisions 
+2,540 
+4,116 
+-1,576 
+-38% 
+Long-term borrowings – due in > 1 year 
+2,218 
+2,546 
+-328 
+-13% 
+Other non-current liabilities 
+1,518 
+1,735 
+-217 
+-13% 
+Deferred tax liabilities 
+139 
+199 
+-60 
+-30% 
+Total non-current liabilities 
+8,184 
+10,810 
+-2,626 
+-24% 
+Current liabilities 
+  
+  
+  
+Current provisions 
+5,417 
+2,546 
++2,871 
++113% 
+Long-term borrowings – due in < 1 year 
+641 
+888 
+-247 
+-28% 
+Short-term borrowings 
+3,702 
+2,542 
++1,160 
++46% 
+Trade and other payables 
+36,694 
+31,113 
++5,581 
++18% 
+Tax liabilities 
+1,932 
+135 
++1,797 +1,331% 
+Other current liabilities 
+26,899 
+29,942 
+-3,043 
+-10% 
+Current derivatives 
+269 
+198 
++71 
++36% 
+Liabilities held for sale 
+  
+159 
+-159 
+Total current liabilities 
+75,554 
+67,523 
++8,031 
++12% 
+TOTAL EQUITY AND LIABILITIES 
+278,678 
+271,945 
++6,733 
++2% 
+ 
+ 
+ 
+ 
+ 
+-9-
+Cash flow statement 
+ 
+(€000) 
+2022 
+2021 
+Total consolidated net profit 
+(925) 
+5,568 
+Depreciation and provisions 
+6,562 
+1,927 
+Gains/(losses) on disposals and dilution 
+49 
+579 
+Operating cash flow after net cost of debt and tax 
+5,686 
+8,074 
+Income tax charge/(income) 
+2,605 
+(751) 
+Net cost of debt 
+89 
+315 
+Operating cash flow before net cost of debt and tax 
+8,380 
+7,638 
+Change in working capital 1 (inventories, trade receivables/payables) 
+(18,280) 
+(13,111) 
+Change in working capital 2 (other items) 
+(3,366) 
+5,693 
+Tax paid 
+3,183 
+(9,341) 
+Cash flow from operating activities 
+(10,083) 
+(9,121) 
+Purchase of PP&E and intangible assets 
+(3,202) 
+(3,276) 
+Increase in loans and advances granted 
+0 
+(45) 
+Decrease in loans and advances granted 
+1,632 
+1,841 
+Disposal of PP&E and intangible assets 
+2,872 
+283 
+Impact of change in consolidation scope 
+0 
+1,859 
+Cash flow from investment activities 
+1,302 
+662 
+Capital increase 
+22 
+16,710 
+New borrowings 
+16 
+7,209 
+Borrowings repaid 
+(970) 
+(1,485) 
+Net interest paid 
+(75) 
+(315) 
+Net change in short-term debt 
+1,283 
+(2,752) 
+Cash flow from financing activities 
+276 
+19,367 
+Impact of exchange rate fluctuations 
+1,831 
+1,186 
+Change in cash and cash equivalents 
+(6,674) 
+12,094 
+Opening cash and cash equivalents 
+54,169 
+42,075 
+Closing cash and cash equivalents 
+47,495 
+54,169 
+Change in cash and cash equivalents 
+(6,674) 
+12,094 
+ 
+ 
+ 

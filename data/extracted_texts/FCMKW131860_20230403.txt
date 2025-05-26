@@ -1,0 +1,289 @@
+ 
+ 
+ 
+ 
+1 
+ 
+  
+Déclaration des transactions sur actions propres 
+Réalisées du 27 au 31 mars 2023 
+ 
+ 
+ 
+Paris, le 3 avril 2023 
+ 
+Présentation agrégée par jour et par marché  
+ 
+Nom de 
+l’émetteur 
+Code identifiant émetteur 
+Jour de la 
+transaction 
+Code identifiant 
+de l’instrument 
+financier 
+Volume total 
+journalier 
+(en nombre 
+d’actions) 
+Prix pondéré 
+moyen journalier 
+d'acquisition des 
+actions 
+Marché 
+HIGH CO 
+969500FYLNRXCJ348W66 
+29/03/2023 
+FR 0000054231 
+21 656 
+5,00 € 
+XPAR 
+HIGH CO 
+969500FYLNRXCJ348W66 
+30/03/2023 
+FR 0000054231 
+31 755 
+5,00 € 
+XPAR 
+HIGH CO 
+969500FYLNRXCJ348W66 
+31/03/2023 
+FR 0000054231 
+1 812 
+5,06 € 
+XPAR 
+ 
+Présentation détaillée transaction par transaction 
+ 
+Code identifiant PSI 
+Jour 
+Heure de la 
+transaction 
+Code identifiant 
+de l’instrument 
+financier 
+Prix 
+unitaire 
+(unité) 
+Devise  
+Quantité 
+achetée 
+Code 
+identifiant 
+marché 
+Numéro de référence 
+de la transaction 
+Objectif du rachat 
+969500UEQ3U3P21QNJ13 
+2023-03-29 
+07:05:16 
+FR 0000054231 
+4,96 
+EUR 
+656 
+XPAR 
+jAj6Ak1WBg000uj0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-29 
+10:17:17 
+FR 0000054231 
+5,00 
+EUR 
+500 
+XPAR 
+jAj6Ak1ZBV004JL0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-29 
+10:18:01 
+FR 0000054231 
+5,00 
+EUR 
+500 
+XPAR 
+jAj6Ak1ZCD004JV0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-29 
+15:10:51 
+FR 0000054231 
+5,00 
+EUR 
+20000 
+XPAR 
+jAj6Ak1dlb007IH0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+08:53:58 
+FR 0000054231 
+5,06 
+EUR 
+2 
+XPAR 
+jAj6Ak1uMQ002PD0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+09:40:22 
+FR 0000054231 
+5,08 
+EUR 
+271 
+XPAR 
+jAj6Ak1v5K0035J0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+09:40:22 
+FR 0000054231 
+5,08 
+EUR 
+227 
+XPAR 
+jAj6Ak1v5K0035T0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+09:40:32 
+FR 0000054231 
+5,08 
+EUR 
+73 
+XPAR 
+jAj6Ak1v5U0035j0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+09:45:01 
+FR 0000054231 
+5,08 
+EUR 
+427 
+XPAR 
+jAj6Ak1v9o003AQ0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+09:48:54 
+FR 0000054231 
+5,00 
+EUR 
+30000 
+XPAR 
+jAj6Ak1vDY003BE0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-30 
+09:53:02 
+FR 0000054231 
+5,00 
+EUR 
+755 
+XPAR 
+jAj6Ak1vHZ003Hg0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-31 
+07:51:16 
+FR 0000054231 
+5,06 
+EUR 
+500 
+XPAR 
+jAj6Ak2FrI001ef0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-31 
+08:27:23 
+FR 0000054231 
+5,08 
+EUR 
+230 
+XPAR 
+jAj6Ak2GQF001vv0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-31 
+08:27:23 
+FR 0000054231 
+5,08 
+EUR 
+270 
+XPAR 
+jAj6Ak2GQF001w50 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+969500UEQ3U3P21QNJ13 
+2023-03-31 
+10:25:08 
+FR 0000054231 
+5,04 
+EUR 
+812 
+XPAR 
+jAj6Ak2IGB003UX0 
+couverture attribution gratuite 
+d'actions salariés et mandataires 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+A propos de HighCo 
+Expert en marketing et communication, HighCo accompagne les marques et retailers dans l’accélération de la 
+transformation du commerce. 
+Cotée sur le compartiment C d’Euronext Paris, et éligible au dispositif « PEA-PME », HighCo compte plus de 500 
+collaborateurs. 
+HighCo est classé « Gold » par EcoVadis, faisant partie du top 5% des entreprises les plus performantes en termes 
+de RSE et d’achats responsables. 
+ 
+ 
+ 
+ 
+Vos contacts 
+Cécile COLLINA-HUE 
+ 
+Nicolas CASSAR 
+Directrice Générale  
+ 
+Relations Presse 
++33 1 77 75 65 06 
+ 
++33 4 88 71 35 46 
+comfi@highco.com  
+ 
+n.cassar@highco.com  
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+HighCo fait partie des indices CAC® Small (CACS), CAC® Mid&Small (CACMS) et CAC® All-Tradable (CACT), 
+Euronext® Tech Croissance (FRTPR) et Enternext® PEA-PME 150 index (ENPME).  
+ISIN : FR0000054231  
+Reuters : HIGH.PA  
+Bloomberg : HCO FP 
+Retrouvez nos communiqués et avis financiers sur www.highco.com 
